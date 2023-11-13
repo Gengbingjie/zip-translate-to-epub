@@ -1,0 +1,21 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "dev",
+    "start": "node index.js"
+  },
+  "author": "gengbingjie",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "compressing": "^1.10.0",
+    "inquirer": "^9.2.8",
+    "progress": "^2.0.3"
+  }
+}
